@@ -38,3 +38,17 @@ To develop an interactive Power BI dashboard.
 ## 📊 Power BI Dashboard Preview
 
 ![Loan Dashboard](./loan-dashboard%20screenshot.png)
+
+INSIGHTS
+✅ 1. Credit History is Important
+			Applicants with a good credit history are more likely to get their loans approved.
+
+✅ 2. Income Supports Approval
+ 			Higher income helps in loan approval, but it is not the only important factor.
+✅ 3. Property Area Affects Approval
+ 			Semi-urban areas show a better loan approval trend compared to other areas.
+✅ 4. Rural Areas Have Growth Potential
+		 Rural areas can be a good opportunity for business growth, but they involve higher risk. A careful lending strategy with proper credit checks can help manage this risk.
+✅5.Income Influences Loan Amount 
+     Higher-income applicants generally receive higher loan amounts, although the trend 		    fluctuates across income levels.
+
