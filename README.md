@@ -37,4 +37,5 @@ To develop an interactive Power BI dashboard.
 
 ## 📊 Power BI Dashboard Preview
 
-![Loan Dashboard](loan-dashboard screenshot.png)
+[Loan Dashboard screenshot]
+(https://github.com/devika-data/Loan-Data-Analysis-Project/blob/main/loan-dashboard%20screenshot.png)
