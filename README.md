@@ -34,3 +34,7 @@ To clean and preprocess loan data.
 To analyze loan-related information.
 To visualize important insights.
 To develop an interactive Power BI dashboard.
+
+## 📊 Power BI Dashboard Preview
+
+![Loan Dashboard](loan-dashboard screenshot.png)
